@@ -1,0 +1,4 @@
+{
+  "name": "devkitPPC",
+  "image": "devkitpro/devkitppc:latest"
+}
